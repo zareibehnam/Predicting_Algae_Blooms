@@ -7,3 +7,4 @@ initial case study we have selected a small problem by data mining standards. Na
 are addressing the problem of predicting the frequency occurrence of several harmful algae
 in water samples.
 
+This research is taken from the book (Chapman & Hall CRC Data Mining and Knowledge Disc_230613_10235)
